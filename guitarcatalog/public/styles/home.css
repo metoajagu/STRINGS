@@ -1,0 +1,162 @@
+body {background-color:firebrick;}
+
+#ibanez {width: 200px;
+height:200px}
+#dangelico{width: 200px;
+height: 200px}
+#fender {width: 200px;
+height: 200px}
+#lespaul1 {width: 350px;
+height: 350px}
+#lespaul2 {width: 300px;
+height: 300px}
+#gretsch {width: 100px;
+height: 250px;
+padding-top: 50px}
+
+/* .model {max-width: 100%;
+max-height: 100%;
+object-fit: contain;} */
+
+h2 {padding-left: 50%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color:rgb(251, 249, 249);
+font-weight: bolder;}
+.filter-title{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: bolder;
+font-size: medium;
+font-style: italic;
+color:#f5f6f7;
+padding-left: 50%}
+
+.strings-title {font-family: cursive;
+font-style: italic;
+color: white;
+padding-left: 49%;}
+nav {
+    padding: 20px;
+    padding-left: 48%;
+  }
+
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+  }
+
+  nav ul li {
+    margin: 0 10px;
+  }
+
+  nav ul li a {
+    color: #f6f3f3;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    transition: all 0.3s ease-in-out;
+  }
+
+  nav ul li a:hover {
+    color: #5e5c5c;
+  }
+/* ------- */
+.main {display: flex;
+flex-direction: row;
+padding-left: 25%;}
+.filtered-main {padding-left: 47%;
+display: flex;
+flex-direction: row;}
+.filtered {display: flex;
+flex-direction: column;}
+.model-link {display: flex;
+justify-content:center;}
+.model-link1 {display: flex;
+justify-content:center;
+color: white;}
+.source {display: flex;
+justify-content:center;}
+/* ----- */
+
+.tags {display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+border-style:groove;
+background-color: white;
+width: 60%
+}
+.tag-box {padding-left: 36%;
+}
+.tag-link {font-size: large;
+font-weight: bold;}
+
+/* ------ */
+.home {border-style:ridge;
+background-color: white;
+border-width: 5px;
+padding: 5px;
+width: 30%;}
+.section {display: flex;
+flex-direction: row;
+flex-wrap: wrap-reverse;
+padding-left: 50px;
+justify-content: space-around;
+width: 70%;}
+/* ------- */
+
+.home {display:flex;
+flex-direction: column;}
+
+
+.full-pic {width: 300px;
+height: 400px;}
+
+.form {padding-left: 40%;
+margin-top: 30px;}
+label {font-weight:lighter;
+color:white}
+.form-descr {display: flex;
+flex-direction: column;
+padding-left: 45%;}
+.form-words {font-size: medium;
+font-weight: bold;
+color: white;}
+.form-words1 {font-size: medium;
+font-weight: bold;
+padding-left: 25px;
+color: white;}
+
+/* -------- */
+.description {display: flex;
+flex-direction: column;
+}
+#descr {width: 50%;
+height: 100px;}
+.color {display: flex;
+flex-direction: column;
+}
+#model-color {width: 50%;}
+.year {display: flex;
+flex-direction: column;
+}
+#model-year {width: 50%;}
+.price {display: flex;
+flex-direction: column;
+}
+#cost {width: 50%;}
+.model {display: flex;
+flex-direction: column;
+}
+#guitar-name {width: 50%;}
+.upload-button {padding-left: 44%;}
+/* -------- */
+
+.detail {padding-left: 43%;}
+.detail-description {width: 25%;}
+.review {width: 40%}
+.detail-tags{padding-left: 5%;}
+.tags-row {display: flex;
+flex-direction: row;
+padding-left: 40%;}
+.detail-label {font-weight: bold;}
