@@ -15,7 +15,7 @@ Instructions on how to run the site:
 1.  Clone the repository on your machine [git clone https://github.com/metoajagu/STRINGS]
 2.  Open up Docker and have it running before opening the project
 3.  Open up the guitarcatalog folder in VSCode and reopen the repository in a Docker container
-4.  Run the file by going to  'Run' then 'Start Debuggin' 
+4.  Run the file by going to  'Run' then 'Start Debugging' 
 5.  Open up the localhost site on your main browser
 6.  Sign into the website  Username: kyle Password: monkey
 7.  Browse through the website
