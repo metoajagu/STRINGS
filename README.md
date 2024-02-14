@@ -17,8 +17,14 @@ Instructions on how to run the site:
 3.  Open up the guitarcatalog folder in VSCode and reopen the repository in a Docker container
 4.  Run the file by going to  'Run' then 'Start Debugging' 
 5.  Open up the localhost site on your main browser
-6.  Sign into the website  Username: kyle Password: monkey
+6.  Sign into the website  Username: 'kyle' Password: 'monkey'
 7.  Browse through the website
 8.  Click on a filter tag to filter the guitars by the specific tag name
 9.  Click each guitar model to showcase the detailed guitar descriptions
 10.  Add your own guitar model to the site by uploading a picture and filling out the form on the bottom of the site
+
+
+
+
+https://github.com/metoajagu/STRINGS/assets/157914585/ff7d4c46-38a3-45a7-a370-1034d79da866
+
